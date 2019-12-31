@@ -2,7 +2,11 @@
 
 ## Lecture videos:
 
-__LINKS HERE__
+ * [Video 1](https://youtu.be/VFUckhnT8oM)
+ * [Video 2](https://youtu.be/QpP7X8t0QVk)
+ * [Video 3](https://youtu.be/tbMxbwO80qk)
+ * [Video 4](https://youtu.be/K2fY8zUOO-U)
+ 
 
 ## Exercises:
 
@@ -12,9 +16,13 @@ Please note that there are two versions of the same exercise implemented in two 
 
 To complete the exercise you would have to do the following:
 
-* Notebook name - description
-* Notebook name - description
+* example_mnist_pytorch - go through the example of training various networks on MNIST dataset in Pytorch
+* Mnist_DL_Example_Keras - the same in Keras
+* exercise_cifar_pytorch - complete the exercise for CIFAR10 dataset in Pytorch
+* exercise_cifar_Keras - the same for Keras
 
 ## Additional materials:
-
-__MATERIALS HERE__
+1. [Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera
+2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+3. [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html) - a Stanford course
+4. [PyTorch Tutorials](https://pytorch.org/tutorials/) - Getting Started Tutorials for Image and Text processing
